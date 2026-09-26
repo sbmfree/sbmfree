@@ -1,4 +1,4 @@
-Hi, I’m Oliwier
+Hi, I’m Paul
 
 I’m an aspiring IT professional and developer from Germany with a strong interest in systems programming, operating systems, computer hardware, and software development.
 
